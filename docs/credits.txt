@@ -1,0 +1,6 @@
+[1] Avants et al. (2009). Advanced normalization tools (ANTs). The Insight Journal, 2(365), 1–35.
+[2] Marcoux et al. (2018). An automated pipeline for the analysis of PET data on the cortical surface. Frontiers in Neuroinformatics.
+[3] Isensee et al. (2019). Automated brain extraction of multi‑sequence MRI using artificial neural networks. Human Brain Mapping.
+[4] López‑González et al. (2020). Intensity normalization methods in brain FDG‑PET quantification. NeuroImage, 222, 117229.
+[5] Tustison et al. (2021). The ANTsX ecosystem for quantitative biological and medical imaging: ANTsR, ANTsPy, and deep learning. Nature Communications.
+[6] Billot et al. (2023). SynthSeg: Segmentation of brain MRI scans of any contrast and resolution without retraining. Medical Image Analysis, 83, 102789.
